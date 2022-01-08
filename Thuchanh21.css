@@ -1,0 +1,8 @@
+body {
+    padding: 50px;
+    text-decoration: none;
+    list-style: none;
+}
+ul.list-group {
+    list-style: none;
+}

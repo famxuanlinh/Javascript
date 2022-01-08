@@ -18,8 +18,6 @@ genderFilterElement.on('change', function () {
         render(userListElement, users);
     }
     else {
-
-
         //write code here
         var filteredUsers = users.filter(function (user) {
             return user.gender === selectedGender;
